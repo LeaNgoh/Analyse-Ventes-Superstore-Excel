@@ -12,4 +12,4 @@ Ce projet consiste en une analyse complète des données de vente d'une grande e
 * **Insight :** Le volume de ventes ne garantit pas le profit (mise en évidence via un graphique combiné).
 
 ## 🖥️ Aperçu du Dashboard
-![Mon Dashboard Excel](dashbord.png)
+![Mon Dashboard Excel](TABLEAU DE BORD.png)
